@@ -1,23 +1,20 @@
+<img align="left" alt="Kamusta, I'm CJ-Cepe" src="./assets/name-dark.png" width="200"/>
 
-<p> Greetings 👋, I'm </p>
-
-# Carl Joseph Cepe
 <p align="center">
 <a href='https://www.linkedin.com/in/cjcepe/' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=resume"></a> <a href='mailto:cj.ceps@gmail.com' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-c92621?logo=resume"></a> <a href='https://cj-cepe.github.io/portfolio/' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-651bff?logo=resume"></a> <a href='https://cj-cepe.github.io/portfolio/Cepe_cv.pdf' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-fff?logo=resume"></a>
-</p>
 
-<img align="right" alt="a cat riding a horse" src="https://i.pinimg.com/originals/ee/c6/f6/eec6f6980619cff8932558793d13be50.gif" width="200"/>
+<img align="right" alt="a cat typing" src="https://i.pinimg.com/originals/ee/c6/f6/eec6f6980619cff8932558793d13be50.gif" width="250"/>
+
+
+<br />
 
 ## 
 ### 💫 About Me
- - 🌱 Currently diving deep into The Odin Project
- - 🌐 Aspiring Web Developer
- - 🎨 UI/UX Enthusiast
- - 🌟 Actively Seeking Opportunities
- - 🚀 Open to collaboration
-
-> #### Socials
-
+ > - 🌐 Aspiring Web Developer
+ > - 🎨 UI/UX Enthusiast
+ > - 🌱 Currently diving deep into The Odin Project
+ > - 🌟 Actively Seeking Opportunities
+ > - 🚀 Open to collaboration
 
 ## 
 ### 💻 Skills
