@@ -1,18 +1,22 @@
-Greetings 👋, I'm
-# Carl Joseph Cepe
-#### Aspiring Web Developer | UI/UX Enthusiast | Actively Seeking Opportunities 
-> Open for work/collab projects
+<p align="center">Greetings 👋, I'm </p>
+<h1 align="center"> Carl Joseph Cepe </h1>
+<p align="center">
+<a href='https://www.linkedin.com/in/cjcepe/' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=resume"></a> <a href='mailto:cj.ceps@gmail.com' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-c92621?logo=resume"></a> <a href='https://cj-cepe.github.io/portfolio/' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-651bff?logo=resume"></a> <a href='https://cj-cepe.github.io/portfolio/Cepe_cv.pdf' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-fff?logo=resume"></a>
+</p>
 
-I need to highlight these ==very important words==.
+Aspiring Web Developer | UI/UX Enthusiast
+
+Actively Seeking Opportunities
+
+Open for work/collab projects
+
+This is a paragraph with custom line height. 
 
 ## 
 ### 💫 About Me
 
 > #### Socials
-> <a href='https://www.linkedin.com/in/cjcepe/' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=resume"></a>
-<a href='mailto:cj.ceps@gmail.com' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-c92621?logo=resume"></a>
-<a href='https://cj-cepe.github.io/portfolio/' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-651bff?logo=resume"></a>
-<a href='https://cj-cepe.github.io/portfolio/Cepe_cv.pdf' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-fff?logo=resume"></a>
+
 
 ## 
 ### 💻 Skills
