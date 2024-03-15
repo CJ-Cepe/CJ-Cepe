@@ -13,7 +13,7 @@
 <br />
 
 ## 
-### 💫 About Me
+###
  > - 🌐 Aspiring Web Developer
  > - 🎨 UI/UX Enthusiast
  > - 🌱 Currently diving deep into The Odin Project
