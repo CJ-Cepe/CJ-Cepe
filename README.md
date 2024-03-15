@@ -4,7 +4,7 @@
 > Open for work/collab projects
 
 I need to highlight these ==very important words==.
-
+---
 ## 💫 About Me
 
 > ### Socials
@@ -13,6 +13,7 @@ I need to highlight these ==very important words==.
 <a href='https://cj-cepe.github.io/portfolio/' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-651bff?logo=resume"></a>
 <a href='https://cj-cepe.github.io/portfolio/Cepe_cv.pdf' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-fff?logo=resume"></a>
 
+---
 ## 💻 Skills
 
 > ### Technical
@@ -37,6 +38,7 @@ I need to highlight these ==very important words==.
 > ### Communication
 > <img alt='Filipino' src='https://img.shields.io/badge/Filipino-100000?style=for-the-badge&logo=Philippines&logoColor=D0D0D0&labelColor=FFFFFF&color=0035a4'/> <img alt='English' src='https://img.shields.io/badge/English-100000?style=for-the-badge&logo=UnitedStates&logoColor=D0D0D0&labelColor=FFFFFF&color=be0b31'/>
 
+---
 ## 🤘 Yeah
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CJ-Cepe/CJ-Cepe/blob/output/github-snake-dark.svg?raw=true" />
