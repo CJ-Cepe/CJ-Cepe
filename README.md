@@ -13,7 +13,7 @@
 <br />
 
 ## 
-###
+&nbsp;
  > - 🌐 Aspiring Web Developer
  > - 🎨 UI/UX Enthusiast
  > - 🌱 Currently diving deep into The Odin Project
@@ -44,7 +44,7 @@
 
 
 > #### Communication
-> <img alt='Filipino' src='https://img.shields.io/badge/Filipino-100000?style=for-the-badge&logo=Philippines&logoColor=D0D0D0&labelColor=FFFFFF&color=0035a4'/> <img alt='English' src='https://img.shields.io/badge/English-100000?style=for-the-badge&logo=UnitedStates&logoColor=D0D0D0&labelColor=FFFFFF&color=be0b31'/>
+> <img alt='Filipino' src='https://img.shields.io/badge/🇵🇭 Filipino-100000?style=for-the-badge&logo=Philippines&logoColor=D0D0D0&labelColor=FFFFFF&color=0035a4'/> <img alt='English' src='https://img.shields.io/badge/🇺🇸 English-100000?style=for-the-badge&logo=UnitedStates&logoColor=D0D0D0&labelColor=FFFFFF&color=be0b31'/>
 
 ##  
 ### 🤘 Yeah
